@@ -1,0 +1,15 @@
+{
+  "name": "url_parser",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "should": "~3.1.2",
+    "mocha": "~1.17.1"
+  }
+}
